@@ -1,0 +1,15 @@
+# Scenario – Cloud Misconfiguration
+
+## Background
+Sensitive files stored in a cloud storage bucket were accidentally exposed to the public.
+
+## Objectives
+- Identify exposed assets.
+- Secure the misconfigured service.
+- Recommend preventive measures.
+
+## Tasks
+1. Audit cloud storage permissions.
+2. Revoke public access.
+3. Enable logging and monitoring.
+4. Suggest IAM best practices.
