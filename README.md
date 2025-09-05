@@ -1,10 +1,7 @@
 # 🛡️ Cyber Security Masterclass – InfoSecTrain  
 
-![Course](https://img.shields.io/badge/InfoSecTrain-Cyber%20Security%20Masterclass-darkred?style=flat-square&logo=hackthebox)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)  
-![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion)  
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20Essentials-informational?style=flat-square&logo=defender)  
-![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)  
+![Course](https://img.shields.io/badge/InfoSecTrain-Cyber%20Security%20Masterclass-darkred?style=flat-square&logo=hackthebox) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon) ![Type](https://img.shields.io/badge/Type-Learning%20Project-orange?style=flat-square&logo=notion) ![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20Essentials-informational?style=flat-square&logo=defender) ![Maintainer](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
+
 
 This repository contains **notes, labs, playbooks, scenarios, research case studies, and certificate of completion** for the *Cyber Security Masterclass* program by InfoSecTrain.  
 The course provides a solid foundation in **cybersecurity fundamentals, network defense, cryptography, incident response, and compliance**.  
